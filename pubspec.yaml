@@ -1,0 +1,7 @@
+name: dartino_conway
+version: 0.0.1
+
+dependencies:
+  raspberry_pi:
+    path: /path/to/dartino-sdk/pkg/raspberry_pi
+  collection: any
